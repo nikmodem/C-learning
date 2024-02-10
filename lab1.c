@@ -5,7 +5,7 @@ int main()
 {
   double a=1, b=2, c=3;
   double x1, x2, m = 0;
-  n = pow(n,2)-4*a*c;
+  m = pow(n,2)-4*a*c;
   printf("n = %if\n",m);
   x1 = (-m+sqrt(m))/(2*a);
   x2 = (-m-sqrt(m))/(2*a);
