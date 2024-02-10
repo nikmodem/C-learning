@@ -3,7 +3,7 @@
 
 int main()
 {
-  double a=1, b=4, c=2;
+  double a=1, b=6, c=5;
   double x1, x2, m = 0;
   m = pow(b,2)-4*a*c;
   printf("n = %if\n",m);
