@@ -11,3 +11,4 @@ int main()
     c = 1;
     D = b*b - 4*a*c;
     printf("D = %lf", D);
+}
